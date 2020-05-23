@@ -1,0 +1,103 @@
+/*Tweetler CSS
+2020/05/21 */
+
+.wrapper{
+    text-align: center;
+    padding-right: 650px;
+    padding-left: 650px;
+}
+
+#headLine {
+    color: white;
+    background-color: skyblue;
+    border-style: solid;
+    border-color: #5985ba;
+    border-width: 5px;
+    font-size: 4em;
+    text-shadow: 1px 1px 6px black;
+    margin-bottom: 30px;
+}
+
+.inputTweet {
+    background-color: #5985ba;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+#inputName {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#nameTextArea {
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 20px;
+    width: 200px;
+}
+
+#inputComment {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+#commentTextArea {
+    margin-top: 10px;
+    margin-left: 20px;
+    resize: none;
+    width: 400px;
+    height: 150px;
+}
+
+#newTweet {
+    margin: 10px;
+    margin-left: 20px;
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#checkTweet {
+    background-color: blue;
+    text-align: left;
+    height: 60px;
+}
+
+#checkButton {
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 130px;
+    height: 40px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.comment {
+    background-color: #d1f0f2;
+}
+
+.tweet {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+.id {
+    text-align: left;
+    font-weight: bold;
+}
+
+.date {
+    float: right;
+}
+
+.msg {
+    text-align: left;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+}
